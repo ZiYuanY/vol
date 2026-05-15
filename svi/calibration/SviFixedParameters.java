@@ -1,4 +1,4 @@
-package com.example.volsystem.model.svi.calibration;
+package svi.calibration;
 
 /**
  * 校准时需要固定的 SVI 参数子集。null 表示该参数自由优化，非 null 表示固定为给定值。
