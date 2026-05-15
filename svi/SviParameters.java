@@ -1,4 +1,4 @@
-package com.example.volsystem.model.svi;
+package svi;
 
 public record SviParameters(double a, double b, double sigma, double rho, double m) {
 
