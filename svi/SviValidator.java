@@ -1,4 +1,4 @@
-package com.example.volsystem.model.svi;
+package svi;
 
 public final class SviValidator {
 
